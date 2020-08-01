@@ -2,6 +2,6 @@
 Tutorial: https://wiki.ai03.com/books/pcb-design/
 
 Kicad Project
-
-![pcb render](https://imgur.com/2LBgify)
-![pcb traces](https://imgur.com/v4f3YZY)
+![imgur album](https://imgur.com/a/j1pQvf5)
+https://imgur.com/2LBgify
+https://imgur.com/v4f3YZY
