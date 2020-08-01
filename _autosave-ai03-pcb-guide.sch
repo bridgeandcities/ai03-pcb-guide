@@ -587,4 +587,15 @@ Text GLabel 3700 2750 2    50   Input ~ 0
 COL0
 Text GLabel 3700 3050 2    50   Input ~ 0
 COL1
+$Comp
+L Connector:USB_C_Receptacle J?
+U 1 1 5F3381E0
+P 6850 3950
+F 0 "J?" H 6957 5217 50  0000 C CNN
+F 1 "USB_C_Receptacle" H 6957 5126 50  0000 C CNN
+F 2 "" H 7000 3950 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 7000 3950 50  0001 C CNN
+	1    6850 3950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
